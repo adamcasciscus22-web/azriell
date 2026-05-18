@@ -1,0 +1,66 @@
+body {
+ background-color: dimgray;
+}
+
+.ul-navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    color: 400px;
+    font-size: 50px;
+}
+
+.home {
+    margin-right: 80px;
+    text-decoration: none;
+}
+
+.about {
+    margin-right: 80px;
+    text-decoration: none;
+}
+
+.contact {
+    margin-right: 80px;
+    text-decoration: none;
+
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50vh;
+}
+
+.img-2 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-right: 250%;
+}
+
+.img-3 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-right: 250%;
+}
+
+.footer-1 {
+    display: flex;
+    justify-content: center;
+    align-content: 200px;
+    background-color: yellow;
+    height: 100px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.h-footer {
+    font-size: 40px;
+    margin-bottom: 25px;
+    color: tomato;
+}
+
